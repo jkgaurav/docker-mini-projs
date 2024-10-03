@@ -54,4 +54,4 @@
 
 ---
 
-Let's move to the next [mini project]()!
+Let's move to the next [mini project](https://github.com/jkgaurav/docker-mini-projs/blob/main/mini-proj-2/problem.md)!
