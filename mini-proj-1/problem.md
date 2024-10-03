@@ -7,3 +7,17 @@ You are tasked with creating and running a simple Docker container. The containe
 1 Hour
 
 ---
+
+### **Approach:**
+
+1. **Install Docker** (if not already installed)
+
+2. **Create the Python Application**
+
+3. **Create a Dockerfile**
+
+4. **Build the Docker Image**
+
+5. **Run the Docker Container**
+
+6. **Verify the Running Container**
