@@ -4,6 +4,6 @@ This repository contains a collection of mini-projects that demonstrate how to u
 
 ## Projects Overview
 
-1. **[mini-proj-1: Getting Started with Docker - "Build and Run Your First Docker Container"]([https://github.com/your-repo/docker-mini-projs/blob/main/mini-proj-1/problem.md](https://github.com/jkgaurav/docker-mini-projs/blob/main/mini-proj-1/problem.md))**  
+1. **[mini-proj-1: Getting Started with Docker - "Build and Run Your First Docker Container"](https://github.com/jkgaurav/docker-mini-projs/blob/main/mini-proj-1/problem.md)**  
 
-2. **[mini-proj-2: Dockerize a Simple Web Application with Port Binding]([https://github.com/your-repo/docker-mini-projs/blob/main/mini-proj-2/problem.md](https://github.com/jkgaurav/docker-mini-projs/blob/main/mini-proj-2/problem.md))**  
+2. **[mini-proj-2: Dockerize a Simple Web Application with Port Binding](https://github.com/jkgaurav/docker-mini-projs/blob/main/mini-proj-2/problem.md)**  
